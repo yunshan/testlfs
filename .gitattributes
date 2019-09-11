@@ -1,0 +1,5 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+commons-io-2.0.1.jar filter=lfs diff=lfs merge=lfs -text
+htmlcleaner-2.2.jar filter=lfs diff=lfs merge=lfs -text
+apache-mime4j-core-0.7.2.jar filter=lfs diff=lfs merge=lfs -text
+apache-mime4j-dom-0.7.2.jar filter=lfs diff=lfs merge=lfs -text
